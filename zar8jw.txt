@@ -1,6 +1,6 @@
 Xueren Ge zar8jw@virginia.edu
 
-Previously Take undergrad courses about embeded systems and doing project by using C and STM32 microcontroller. I'm famaliar with Python, C++, and C.
+I'm Xueren Ge and I'm first year PhD student in UVA Link Lab. Previously I have taken some undergrad courses about embeded systems and doing project by using C and STM32 microcontroller. I'm famaliar with Python, C++, and C.
 
-I'm interested to learn more about the architectures, threads, and more C programming and debugging experiences.
+My research interests are machine learning applications. For this class, I'm interested to learn more about the architectures, threads, parallel programming, CPS and gain more pratical C programming and debugging experiences. After this class, I wish to learn more about CPS and more famaliar with C programming.
 
