@@ -1,0 +1,6 @@
+Xueren Ge zar8jw@virginia.edu
+
+Previously Take undergrad courses about embeded systems and doing project by using C and STM32 microcontroller. I'm famaliar with Python, C++, and C.
+
+I'm interested to learn more about the architectures, threads, and more C programming and debugging experiences.
+
